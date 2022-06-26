@@ -1,1 +1,1 @@
-Ny readne for static libraries 
+My readme on static libraries
