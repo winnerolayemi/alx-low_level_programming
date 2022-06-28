@@ -61,4 +61,4 @@ char **strtow(char *str)
 {
 	char **strings;
 	int index = 0, words, w, letters, l;
-
+}
