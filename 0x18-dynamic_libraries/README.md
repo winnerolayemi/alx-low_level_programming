@@ -1,1 +1,1 @@
-Creating and using dynamic libraries in the C language
+Creating and using dynamic libraries in C
